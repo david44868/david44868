@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @david44868
-- 👀 I’m interested in getting a Computer Science internship
-- 🌱 I’m currently learning Java, Python, HTML/CSS
+- 👀 I’m interested in getting a Computer Science internship/job
+- 🌱 I’m proficient in Java, Python, and React
 - 📫 How to reach me: davidhariantowu@gmail.com
 
 <!---
